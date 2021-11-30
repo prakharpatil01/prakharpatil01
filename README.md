@@ -1,9 +1,11 @@
 ## Hi there, it's Praty 👋 (Prakhar Patil)
-#### Data Analyst | Machine Learning Enthusiast
+### Data Analyst | Machine Learning Enthusiast
 
-I am a Data fanatic. I am passionate about implementing solutions for challenging business problems using the blend of statistics and data modeling and creating an impact.
+#### I am a Data fanatic. I am passionate about implementing solutions for challenging business problems using the blend of statistics and data modeling and creating an impact.
 
-#### Currently working on
+
+Currently working on
+
 >R language
 
 >Tableau
@@ -12,6 +14,11 @@ I am a Data fanatic. I am passionate about implementing solutions for challengin
 
 >MySql
 
-#### Reach me on:
+
+
+
+
+Reach me on:
+
 [LinkedIn](https://www.linkedin.com/in/prakhar-patil-3b822319b) | [Twitter](https://twitter.com/prakhar_patil) | [Kaggle](https://www.kaggle.com/prakharpatil)
 
