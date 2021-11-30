@@ -1,7 +1,7 @@
 ## Hi there, it's Praty 👋 (Prakhar Patil)
 #### Data Analyst | Machine Learning Enthusiast
 
-I am a Data enthusiast. I am passionate about implementing solutions for challenging business problems using the blend of statistics and data modeling and creating an impact.
+I am a Data fanatic. I am passionate about implementing solutions for challenging business problems using the blend of statistics and data modeling and creating an impact.
 
 #### Currently working on
 R language | Tableau | MS Excel | MySql
