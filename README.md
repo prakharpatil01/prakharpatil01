@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, it's Praty 👋 (Prakhar Patil)
+#### Data Analyst | Machine Learning Enthusiast
 
-<!--
-**prakharpatil01/prakharpatil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data enthusiast. I am passionate about implementing solutions for challenging business problems using the blend of statistics and data modeling and creating an impact.
 
-Here are some ideas to get you started:
+#### Currently working on
+R language | Tableau | MS Excel | MySql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Reach me on:
+LinkedIn - https://www.linkedin.com/in/prakhar-patil-3b822319b
+
+Twiter - https://twitter.com/prakhar_patil
+
+Kaggle - https://www.kaggle.com/prakharpatil
+
